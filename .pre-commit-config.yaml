@@ -7,5 +7,5 @@ repos:
         stages:
             - "push"
         language: system
-        pass_filename: false
+        pass_filenames: false
         always_run: true
